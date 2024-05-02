@@ -1,0 +1,12 @@
+IN HQ-MLSW 1
+
+en
+config t
+
+int gig1/0/1
+no switchport
+
+ip add 192.168.21.17 255.255.255.255
+no shut
+
+do wr

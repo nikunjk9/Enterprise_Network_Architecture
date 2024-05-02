@@ -1,0 +1,14 @@
+
+
+IN HQ-MLSW 1
+
+access-list 10 permit 192.168.20.0 0.0.0.63
+access-list 10 deny any
+
+
+
+line vty 0 15
+access-class 10 in
+exit
+
+do wr

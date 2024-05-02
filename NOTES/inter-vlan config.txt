@@ -1,0 +1,26 @@
+
+
+int range gig1/0/2-8
+switchport mode trunk 
+exit
+
+
+
+vlan 10
+name IT
+vlan 20
+name FIN
+vlan 30
+name HR
+vlan 40
+name SV
+vlan 50
+name MKT
+vlan 60
+name D
+vlan 120
+name VOICE
+exit
+
+
+do wr

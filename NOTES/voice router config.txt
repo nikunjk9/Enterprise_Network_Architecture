@@ -1,0 +1,8 @@
+IN HQ-VoIP router
+
+interface fastethernet0/0.120
+encapsulation dot1Q 120
+ip add 10.10.10.1 255.255.255.0
+exit
+
+do wr
