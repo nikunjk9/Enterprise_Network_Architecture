@@ -32,5 +32,8 @@ Integration of a File Transfer Protocol server streamlined file interchange, and
 
 
 ### Screenshot
-
+1. Simulation
 ![Screenshot 2023-07-26 163224](https://github.com/nikunjk9/Enterprise_Network_Architecture/assets/140910919/faffeeb4-946d-4689-a093-6db0c7ed227b)
+
+2. Vlan routing config
+![VLAN CONFIG.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/Configuration-SW/VLAN%20CONFIG.png)
