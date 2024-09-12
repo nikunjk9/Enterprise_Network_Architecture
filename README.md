@@ -44,6 +44,31 @@ Integration of a File Transfer Protocol server streamlined file interchange, and
 ----
 ![IP-config SW2.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/Configuration-%20MLSW/IP-config%20SW2.png)
 
-### 3. Configuration- Switches (VLAN CONFIG)
+### 4. Configuration- Switches (VLAN CONFIG)
 ----
 ![VLAN CONFIG.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/Configuration-SW/VLAN%20CONFIG.png)
+
+### 5. Dynamic Host Configuration Protocol (DHCP) Configuration
+----
+![DHCP- CONFIG.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/DHCP-SERVER/DHCP-%20CONFIG.png)
+![DHCP- CONFIG.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/DHCP-SERVER/DHCP-CONFIG.png)
+
+### 6. Domain Name System (DNS) Configuration
+----
+![DNS-CONFIG.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/DNS-SERVER/DNS-CONFIG.png)
+
+### 7. File Transfer Protocol (FTP) Configuration
+----
+![VLAN CONFIG.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/FTP-SERVER/FTP-CONFIG.png)
+
+### 8. HQ-Router Configuration
+----
+![VLAN CONFIG.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/HQ-Router/NAT-CONFIG.png)
+
+### 9. ISP-ROUTER Configuration
+----
+![VLAN CONFIG.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/ISP-ROUTER/Routing-config.png)
+
+### 10. Server-side-Switch Configuration
+----
+![VLAN CONFIG.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/Server-side-SW/do%20show%20start.png)
