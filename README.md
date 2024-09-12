@@ -33,7 +33,17 @@ Integration of a File Transfer Protocol server streamlined file interchange, and
 
 ## Screenshot
 ### 1. Simulation
+----
 ![Screenshot 2023-07-26 154009.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/DESIGN%20AND%20SIMULATION/Screenshot%202023-07-26%20154009.png)
 
 ### 2. Vlan routing config
+----
+![VLAN CONFIG.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/Configuration-SW/VLAN%20CONFIG.png)
+
+### 3. Configuration- Multi-Layer Switches
+----
+![IP-config SW2.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/Configuration-%20MLSW/IP-config%20SW2.png)
+
+### 3. Configuration- Switches (VLAN CONFIG)
+----
 ![VLAN CONFIG.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/Configuration-SW/VLAN%20CONFIG.png)
