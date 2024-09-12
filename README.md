@@ -6,24 +6,24 @@ Alkashaf Consultant (Private) Limited, a consultant company with six major depar
 Integration of a File Transfer Protocol server streamlined file interchange, and a reliable backup system minimized the risk of data loss. The adoption of the Open Shortest Path First routing protocol facilitated dynamic route advertisement and traffic optimization. Security measures included Secure Socket Shell protocol, standard Access Control Lists, and Port Address Translation for Network Address Translation. Site-to-site IPsec virtual private networks were established to secure data transmission and enable remote communication. Upon implementation, the proposed network infrastructure and security system resulted in a significant enhancement of company activities. This research contributes to the understanding of SDN applications and provides valuable insights for organizations seeking dynamic and secure network management solutions.
 
 ## **Technologies Implemented**
-1. Creating a network topology using Cisco Packet Tracer.
+1. Creating a network topology using `Cisco Packet Tracer`.
 2. Hierarchical Network Design.
 3. Connecting Networking devices with Correct cabling.
 4. Configuring Basic device settings.
-5. Creating VLANs and assigning ports VLAN numbers.
+5. Creating `VLANs` and assigning ports VLAN numbers.
 6. Creating both data and voice VLANs and assigning ports VLAN numbers.
-7. Subnetting and IP Addressing.
-8. Configuring Inter-VLAN Routing both on the Switches (SVI) and Routers (router-on-a-stick).
+7. Subnetting and `IP Addressing`.
+8. Configuring `Inter-VLAN Routing` both on the Switches (SVI) and Routers (router-on-a-stick).
 9. Configuring Dedicated DHCP Server device for Data to provide dynamic IP allocation.
-10. Configuring Routers as DHCP server for Voice to provide IP Phones dynamic IP allocation.
-11. Configuring SSH for secure Remote access.
-12. Configuring OSPF as the routing protocol.
-13. Configuring Standard ACL for VTY interfaces to restrict remote Access using SSH.
-14. Configuring Port Address Traslations or PAT for NAT.
+10. Configuring Routers as `DHCP server` for Voice to provide IP Phones dynamic IP allocation.
+11. Configuring `SSH` for secure Remote access.
+12. Configuring `OSPF` as the routing protocol.
+13. Configuring Standard `ACL` for VTY interfaces to restrict remote Access using SSH.
+14. Configuring Port Address Traslations or `PAT` for `NAT`.
 15. Configuring Standard ACL for PAT.
-16. Configuring VoIP or Telephony service configuration in all routers.
-17. Configuring site-to-site IPsec VPN on the gateway routers.
-18. Configuring Standard ACL for site-to-site IPsec VPN.
+16. Configuring `VoIP or Telephony service` configuration in all routers.
+17. Configuring `site-to-site IPsec VPN` on the gateway routers.
+18. Configuring `Standard ACL` for site-to-site IPsec VPN.
 19. Host Device Configurations.
 20. Test and Verifying Network Communication.
 
