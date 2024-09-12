@@ -11,7 +11,7 @@ Integration of a File Transfer Protocol server streamlined file interchange, and
 3. Connecting Networking devices with Correct cabling.
 4. Configuring Basic device settings.
 5. Creating `VLANs` and assigning ports VLAN numbers.
-6. Creating both data and voice VLANs and assigning ports VLAN numbers.
+6. Creating both `data and voice VLANs` and assigning ports VLAN numbers.
 7. Subnetting and `IP Addressing`.
 8. Configuring `Inter-VLAN Routing` both on the Switches (SVI) and Routers (router-on-a-stick).
 9. Configuring Dedicated DHCP Server device for Data to provide dynamic IP allocation.
@@ -20,7 +20,7 @@ Integration of a File Transfer Protocol server streamlined file interchange, and
 12. Configuring `OSPF` as the routing protocol.
 13. Configuring Standard `ACL` for VTY interfaces to restrict remote Access using SSH.
 14. Configuring Port Address Traslations or `PAT` for `NAT`.
-15. Configuring Standard ACL for PAT.
+15. Configuring Standard ACL for `PAT`.
 16. Configuring `VoIP or Telephony service` configuration in all routers.
 17. Configuring `site-to-site IPsec VPN` on the gateway routers.
 18. Configuring `Standard ACL` for site-to-site IPsec VPN.
