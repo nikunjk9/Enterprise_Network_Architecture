@@ -72,3 +72,7 @@ Integration of a File Transfer Protocol server streamlined file interchange, and
 ### 10. Server-side-Switch Configuration
 ----
 ![VLAN CONFIG.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/Server-side-SW/do%20show%20start.png)
+
+### 11. VOICE-ROUTER Configuration
+----
+![VLAN CONFIG.png](https://github.com/nikunjk9/Enterprise_Network_Architecture/blob/master/VOICE-ROUTER/Ephones(1).png)
